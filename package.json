@@ -12,6 +12,8 @@
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.6.2",
     "hardhat": "^2.9.3",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
     "yarn": "^1.22.18"
   }
 }
